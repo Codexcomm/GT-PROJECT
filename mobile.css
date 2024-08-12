@@ -1,0 +1,32 @@
+@media(max-width:450px){
+
+
+    body{
+        height: fit-content;
+    }
+    
+    header{
+        height: fit-content;
+        flex-direction: column;
+        gap: 20px;
+    }
+    
+    .brand{
+        flex-direction: row;
+    }
+    
+    .search-group{
+        width: 100%;
+    }
+    
+    .search-group input{
+        padding: 10px 50px;
+    }
+    
+    main section{
+        width: 80%;
+    }
+    
+  
+
+}
